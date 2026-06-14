@@ -69,3 +69,4 @@ A TypeScript-based manga reader app.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=saicharanar&show_icons=true&theme=github_dark&hide_border=true" alt="Sai Charan's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanar&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
+
